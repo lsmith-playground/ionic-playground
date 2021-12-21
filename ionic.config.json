@@ -1,0 +1,8 @@
+{
+  "name": "Ionic Playground",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "ab32bf2f"
+}

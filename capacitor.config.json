@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Ionic Playground",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
